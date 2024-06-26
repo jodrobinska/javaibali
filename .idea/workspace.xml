@@ -5,35 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27e88a01-1a0f-4266-a598-49e27c27719a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BreakContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CzyLiczbaParzysta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InstrukcjeWarunkowe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Konstruktory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PetlaFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PetlaWPetli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PetlaWhile_PetlaDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramSaldo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramowanieObiektowe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramowanieObiektowe1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Statycznosc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TabliceWielowymiarowe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/butelka/Butelka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/Dziedziczenie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dziedziczeniePotwory/Potwor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dziedziczeniePotwory/Szkielet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dziedziczeniePotwory/Zombie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enkapsulacja/Enkapsulacja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pkginstanceof/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/referencje/Referencje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumaWartosci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
